@@ -16,7 +16,7 @@
 	};
 	"generic" = {
 	  url = "https://github.com/zen-browser/desktop/releases/download/${version}/zen.linux-generic.tar.bz2";
-	  sha256 = "sha256:1kcp2ignckh6ziqi7l1h0kn1g2bh1h80fy6xmxl6w9clihjcs4di";
+	  sha256 = "sha256:1bjwcar919hp2drlnirfx8a7nhcglm4kwymknzqxdxxj7x8zi4zr";
 	};
       };
 
